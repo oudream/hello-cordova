@@ -1,0 +1,18 @@
+[submodule "referto/ionic"]
+	path = referto/ionic
+	url = https://github.com/ionic-team/ionic.git
+[submodule "referto/ionic-native"]
+	path = referto/ionic-native
+	url = https://github.com/ionic-team/ionic-native.git
+[submodule "referto/ionic-cli"]
+	path = referto/ionic-cli
+	url = https://github.com/ionic-team/ionic-cli.git
+[submodule "referto/ionic-conference-app"]
+	path = referto/ionic-conference-app
+	url = https://github.com/ionic-team/ionic-conference-app.git
+[submodule "referto/cordova-plugin-device"]
+	path = referto/cordova-plugin-device
+	url = https://github.com/apache/cordova-plugin-device.git
+[submodule "referto/cordova-plugin-camera"]
+	path = referto/cordova-plugin-camera
+	url = https://github.com/apache/cordova-plugin-camera.git
