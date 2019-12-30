@@ -1,7 +1,16 @@
 #!/usr/bin/env bash
 
+git clone  --recursive
+
+
 
 https://github.com/apache/cordova
+# cordova doc
+https://cordova.apache.org/docs/zh-cn/latest/guide/cli/index.html
+https://cordova.apache.org/docs/en/latest/
+
+
+# ionic doc
 https://ionicframework.com/docs/cli
 https://ionicframework.com/docs/components
 https://ionicframework.com/docs/enterprise
